@@ -1,0 +1,9 @@
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\bin\Debug\netcoreapp2.1\ChapterOneExample.Utilities.deps.json
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\bin\Debug\netcoreapp2.1\ChapterOneExample.Utilities.dll
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\bin\Debug\netcoreapp2.1\ChapterOneExample.Utilities.pdb
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\obj\Debug\netcoreapp2.1\ChapterOneExample.Utilities.csproj.CoreCompileInputs.cache
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\obj\Debug\netcoreapp2.1\ChapterOneExample.Utilities.AssemblyInfoInputs.cache
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\obj\Debug\netcoreapp2.1\ChapterOneExample.Utilities.AssemblyInfo.cs
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\obj\Debug\netcoreapp2.1\ChapterOneExample.Utilities.dll
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\obj\Debug\netcoreapp2.1\ChapterOneExample.Utilities.pdb
+C:\Data\Solutions\ProTDDWithCSharp\ChapterOneExample\ChapterOneExample.Utilities\obj\Debug\netcoreapp2.1\ChapterOneExample.Utilities.csprojAssemblyReference.cache
